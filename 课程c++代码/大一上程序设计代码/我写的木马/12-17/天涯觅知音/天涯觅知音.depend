@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513494256 source:d:\我写的木马\12-17\天涯觅知音\main.cpp
+	<iostream>
+	<windows.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1512181180 source:d:\我写的木马\12-1\main\main.cpp
+	"head.h"
+
+1512120514 d:\我写的木马\12-1\p_r_s\p_r_s.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1512182507 d:\我写的木马\12-1\main\head.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+

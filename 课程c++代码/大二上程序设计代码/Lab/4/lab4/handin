@@ -1,0 +1,11 @@
+#!/bin/bash
+RED_COLOR='\E[1;31m'
+RES='\E[0m'
+if [ -z $1 ];then
+    echo -e "${RED_COLOR}Error:${RES} you should input your student ID!"
+    echo "Usage: ./handin 51703XXXXXX"
+else 
+    ID=$1
+    tar czvf $ID.tar Compression
+fi
+

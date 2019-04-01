@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511108817 source:d:\我写的木马\11-19\好久没写木马了\main.cpp
+	<iostream>
+	<cstring>
+

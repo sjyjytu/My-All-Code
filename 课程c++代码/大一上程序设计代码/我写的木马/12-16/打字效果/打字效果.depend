@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513439996 source:d:\我写的木马\12-16\打字效果\main.cpp
+	<iostream>
+	<windows.h>
+

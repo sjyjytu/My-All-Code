@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513690677 source:d:\我写的木马\12-19-真正的程序\book\main.cpp
+	"book.h"
+
+1513690670 d:\我写的木马\12-19-真正的程序\book\book.h
+	<iostream>
+	<cstring>
+	<iomanip>
+	<fstream>
+
+1513690659 source:d:\我写的木马\12-19-真正的程序\book\book.cpp
+	"book.h"
+

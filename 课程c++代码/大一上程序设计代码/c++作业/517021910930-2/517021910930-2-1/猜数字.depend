@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508155988 source:d:\jy的c++工具\c++作业\猜数字\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1512182985 source:d:\我写的木马\12-2\prs\main.cpp
+	"head.h"
+
+1512182985 d:\我写的木马\12-2\prs\head.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1512182985 source:d:\我写的木马\12-2\prs\print.cpp
+	"head.h"
+
+1512182985 source:d:\我写的木马\12-2\prs\compare.cpp
+	"head.h"
+
+1512183322 source:d:\我写的木马\12-2\prs\select.cpp
+	"head.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520420544 source:f:\c++ДњТы\2018\goddess\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+

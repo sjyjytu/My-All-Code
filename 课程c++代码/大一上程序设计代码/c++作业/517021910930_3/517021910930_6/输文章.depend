@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1510461744 source:d:\jy的c++工具\c++作业\517021910930-3\1\改\输文章\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+
+1513682584 source:d:\jy的c++工具\c++作业\517021910930_3\输文章\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<fstream>
+

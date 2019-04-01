@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1512383560 source:d:\jy的c++工具\c++作业\4\链表\merge.cpp
+	"head.h"
+
+1512383560 d:\jy的c++工具\c++作业\4\链表\head.h
+	<iostream>
+
+1512386747 source:d:\jy的c++工具\c++作业\4\链表\output.cpp
+	"head.h"
+
+1512386747 source:d:\jy的c++工具\c++作业\4\链表\creatsortlist.cpp
+	"head.h"
+
+1512384769 source:d:\jy的c++工具\c++作业\4\链表\main.cpp
+	"head.h"
+
+1512383560 source:d:\jy的c++工具\c++作业\517021910930_4\链表\merge.cpp
+	"head.h"
+
+1512383560 d:\jy的c++工具\c++作业\517021910930_4\链表\head.h
+	<iostream>
+
+1512386747 source:d:\jy的c++工具\c++作业\517021910930_4\链表\output.cpp
+	"head.h"
+
+1512386747 source:d:\jy的c++工具\c++作业\517021910930_4\链表\creatsortlist.cpp
+	"head.h"
+
+1512387072 source:d:\jy的c++工具\c++作业\517021910930_4\链表\main.cpp
+	"head.h"
+
